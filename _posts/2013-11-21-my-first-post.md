@@ -15,10 +15,3 @@ This is my first post on this new journey, maybe I sin rookie, but initially my 
 <blockquote>
 	 "Caminante no hay camino, se hace camino al andar"
 </blockquote>
-
-<figure>
-	<a href="">
-		<img src="" alt="">
-	</a>
-	
-</figure>
