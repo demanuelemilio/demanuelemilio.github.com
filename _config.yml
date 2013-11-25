@@ -32,7 +32,7 @@ background: ps_neutral.png
 analytics :
   provider : google
   google : 
-      tracking_id : 'UA-46002002-1'
+      tracking_id : UA-46002002-1
   getclicky :
     site_id :
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
