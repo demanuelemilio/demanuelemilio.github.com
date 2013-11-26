@@ -27,8 +27,7 @@ background: ps_neutral.png
 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
-id: UA-46002002-1
+google_analytics: UA-46002002-1
 
 google_verify:      
 
