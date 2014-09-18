@@ -33,6 +33,6 @@ In recent months I've ventured into the world Javascript, and as I was reading a
 
 Javascript Right now, you can develop a Web application from the back-end to front-end, communicating via Restful also can perform unit tests or even automate tasks to make life easier, as you can see the Javascript language has equaled or outperformed its Java cousin and not only by name.
 
-Because of you might be realizing there is also a very active community which makes for many bookstores, being a little more explicit in the front-end, will feature such <a href="http://backbonejs.org/" target="_blank"> Backbone</a>, bookstore MVC, ie, model view controller. Backbone The idea is to have models, views and collections, so that the code is tidy and is more reusable. Along Backbone uses libraries like jQuery to access elements and Underscore to represent the models discussed.
+Because of you might be realizing there is also a very active community which makes for many bookstores, being a little more explicit in the front-end, will feature such <a href="http://backbonejs.org/" target="_blank"> Backbone</a>, MVC, ie, model view controller. Backbone The idea is to have models, views and collections, so that the code is tidy and is more reusable. Along Backbone uses libraries like jQuery to access elements and Underscore to represent the models discussed.
 
 	
