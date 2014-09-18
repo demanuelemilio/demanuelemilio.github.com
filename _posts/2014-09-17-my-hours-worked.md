@@ -12,7 +12,7 @@ share: true
 
 
 <div style="width:40%" class="pull-right">
-	<a href="https://chrome.google.com/webstore/detail/my-hours-worked/hmdieaemabodhgalghfkclcmbmbbgbac?utm_source=chrome-ntp-icon">
+	<a href="https://chrome.google.com/webstore/detail/my-hours-worked/hmdieaemabodhgalghfkclcmbmbbgbac?utm_source=chrome-ntp-icon" target="_blank">
 		<figure  class="">
 				<img style="border-radius:50%;" src="/images/logo440x280.png" alt="">
 		</figure>
