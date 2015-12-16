@@ -13,7 +13,7 @@ Después de un tiempo sin escribir, me gustaría presentar un nuevo proyecto cre
 
 <div style="width:30%;margin-top:34px;">
 	<a href="http://www.edicionlimitadasevilla.es" target="_blank">
-		<img src="/images/EDICIONLIMITADA.JPG" alt="edicionLimitada logo"/>
+		<img src="/images/EDICIONLIMITADA.jpg" alt="edicionLimitada logo"/>
 	</a>
 </div>
 
