@@ -4,8 +4,8 @@ title: My Hours Worked
 description: "My hours worked"
 modified: 2014-09-17
 tags: [Javascript, develop, projects]
-image:
-  feature: abstract-3.jpg
+img:
+  logo440x280.png
 share: true
 ---
 
@@ -14,7 +14,7 @@ share: true
 <div style="width:40%" class="pull-right">
 	<a href="https://chrome.google.com/webstore/detail/my-hours-worked/hmdieaemabodhgalghfkclcmbmbbgbac?utm_source=chrome-ntp-icon" target="_blank">
 		<figure  class="">
-				<img style="border-radius:50%;" src="/images/logo440x280.png" alt="">
+				<img style="border-radius:50%;" src="/assets/img/logo440x280.png" alt="">
 		</figure>
 	</a>
 </div>

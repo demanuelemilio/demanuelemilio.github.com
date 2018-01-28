@@ -4,8 +4,8 @@ title: Recambios Emilio
 description: "Projects"
 modified: 2015-12-16
 tags: [projects, Javascript, develop]
-image:
-  feature: abstract-3.jpg
+img:
+   ##EDICIONLIMITADA.jpg
 share: true
 ---
 

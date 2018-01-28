@@ -1,73 +1,37 @@
-title:            Emilio De Manuel Aranda
-description:      Wellcome to my web.
-disqus_shortname: 
-#Your site's domain goes here. Leave localhost server or blank when working locally.
-url:
+title: Hello, world! I'm Emilio De Manuel Aranda
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
 
-# Owner/author information
-owner:
-  name:           Emilio De Manuel Aranda
-  avatar:         rostro.jpg
-  bio:            "Hi, i am a developer who loves his profession."
-  email:          
-  # Social networking links used in footer. Update and remove as you like.
-  twitter: emiliodemanuel
-  facebook: demanuelaranda      
-  github: demanuelemilio
-  stackexchange:  
-  linkedin: emilio-de-manuel-aranda/27/567/444     
-  instagram:      
-  flickr:         
-  tumblr:         
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:   
+# Author Settings
+author: Emilio De Manuel Aranda # add your name
+author-img: rostro.jpg # add your photo
+about-author: Soy un desarrollador web que se centra en el desarrollo front-end. Siempre con ganas de seguir aprendiendo. # add description
+twitter: emiliodemanuel # add your Twitter handle
+facebook: # add your Facebook handle
+github: demanuelemilio # add your Github handle
+linkedin: emilio-de-manuel-aranda-44456727
+#email: # add your Email address
 
-# Background image to be tiled on all pages
-background: ps_neutral.png
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
 
+# Tracker
+analytics: # Google Analytics
 
-# Analytics and webmaster tools stuff goes here
-google_analytics: UA-46002002-1
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
 
-google_verify: google24b3c80b75a892ea.html  
+paginate: 8
+paginate_path: "/page/:num"
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
-
-# Links to include in top navigation
-# For external links add external: true
-#links:
- # - title: 
-  #  url: 
-  #- title: 
-   # url: 
-   # external: 
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-future:      true
-pygments:    true
-markdown:    kramdown
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
-
-# Amount of post to show on home page
-paginate: 5
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: true
-
-  coderay:
-    coderay_line_numbers: nil
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
